@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "dfgvfd",
+  "main": "app.js",
+  "scripts": {
+    "test": "fdg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fd"
+  },
+  "keywords": [
+    "dfgf"
+  ],
+  "author": "dfgf",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.1"
+  }
+}
